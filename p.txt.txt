@@ -1,0 +1,40 @@
+wget https://raw.githubusercontent.com/NEERAJISM/MPI/master/
+
+:
+
+prefix.c
+dotProduct.c
+lagrange.c
+lagrange.cpp
+mat_mul_scatter_gather.c
+matvec.c
+prefix_sum.c
+sum of n numbers.cpp
+mpi_trap.cpp
+Lagrange interpolation.cpp
+
+Programs:
+
+correct dot product.c
+dotProduct.c
+gather_scatter.c
+gather_scatter 2.c
+lagrange.cpp
+mat_vec_mul.c
+oddEvenSortMPI.c
+oddeventranspositionsort.c
+trapezoidal.c
+
+Programs/Aish:
+
+mpi_meshprefix.cpp
+mpi_polynomial.cpp
+mpi_prefixsum.cpp
+mpi_shufflesum.cpp
+mpi_simpsons.cpp
+mpi_summation.cp
+mpi_trapezoid.cpp
+
+
+
+
